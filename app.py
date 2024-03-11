@@ -19,12 +19,6 @@ db = sqlite3.connect("databse.db")
 def index():
     return render_template('index.html')
 
-### як зробити так, щоб воно поверталось на "/"
-@app.route('/index.html')
-def home():
-    return render_template('index.html')
-###
-
 @app.route('/map_of_wines.html')
 def map_of_wines():
     return render_template('map_of_wines.html')
@@ -47,6 +41,11 @@ def register():
         add_new_user(new_user)
         return 'Hello'
     return render_template('register.html')
+
+@app.route('/settings')
+def settings():
+### we got rid of user photo
+    return render_template('settings.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
