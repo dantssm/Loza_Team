@@ -1,0 +1,231 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v52_560 {
+  width: 100%;
+  height: 2939px;
+  background: rgba(224,201,195,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v52_561 {
+  width: 100px;
+  height: 100px;
+  background: rgba(224,201,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 1183px;
+  overflow: hidden;
+}
+.v52_562 {
+  width: 104px;
+  height: 100px;
+  background: rgba(224,201,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 1304px;
+  overflow: hidden;
+}
+.v52_563 {
+  width: 83px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 11px;
+  font-family: Open Sans;
+  font-weight: Light;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v52_564 {
+  width: 93px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 55px;
+  left: 1190px;
+  font-family: Open Sans;
+  font-weight: Light;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v52_565 {
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 52px;
+  font-family: Italianno;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v52_566 {
+  width: 100px;
+  height: 100px;
+  background: rgba(224,201,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 1058px;
+  overflow: hidden;
+}
+.v52_567 {
+  width: 91px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 35px;
+  left: 5px;
+  font-family: Open Sans;
+  font-weight: Light;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v52_568 {
+  width: 100px;
+  height: 100px;
+  background: rgba(224,201,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 933px;
+  overflow: hidden;
+}
+.v52_569 {
+  width: 91px;
+  color: rgba(24,11,1,1);
+  position: absolute;
+  top: 35px;
+  left: 5px;
+  font-family: Open Sans;
+  font-weight: Light;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v52_576 {
+  width: 809px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 259px;
+  left: 500px;
+  font-size: 31px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_588 {
+  width: 809px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 762px;
+  left: 500px;
+  font-size: 31px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_589 {
+  width: 809px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1268px;
+  left: 500px;
+  font-size: 31px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_590 {
+  width: 809px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1817px;
+  left: 500px;
+  font-size: 31px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_591 {
+  width: 809px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2439px;
+  left: 500px;
+  font-size: 31px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_582 {
+  width: 561px;
+  height: 519px;
+  background: url("../img/v54_582.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 619px;
+  left: -56px;
+  overflow: hidden;
+}
+.v54_583 {
+  width: 535px;
+  height: 474px;
+  background: url("../img/v54_583.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  left: -30px;
+  overflow: hidden;
+}
+.v54_584 {
+  width: 473px;
+  height: 474px;
+  background: url("../img/v54_584.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2289px;
+  left: 0;
+  overflow: hidden;
+}
+.v54_585 {
+  width: 474px;
+  height: 474px;
+  background: url("../img/v54_585.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1160px;
+  left: 0;
+  overflow: hidden;
+}
+.v54_586 {
+  width: 476px;
+  height: 475px;
+  background: url("../img/v54_586.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1709px;
+  left: 0;
+  overflow: hidden;
+}
